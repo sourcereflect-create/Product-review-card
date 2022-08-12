@@ -118,7 +118,7 @@ ul{
   }
 
 
-  @media (min-width:640px) {
+  @media screen and (min-width:640px) {
     .container {
         display: grid;
         grid-template-columns: repeat(2);
